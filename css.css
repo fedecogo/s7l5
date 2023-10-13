@@ -1,0 +1,7 @@
+#nav {
+    position: sticky !important;
+    top: 0px !important;
+    z-index: 10 !important; 
+
+    
+}
